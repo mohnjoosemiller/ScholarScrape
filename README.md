@@ -9,6 +9,18 @@ Functionality
 * (optional) filter out citations and patents if wanted (unsure of what effect this has on the product of the script)
 * Proper Filenames
 
+Usage
+-----
+
+ScholarScrape uses Octave 4.4.1 as its base however it should be executable in any recent versions of Octave, if you run into problems, submit and Issue.
+
+Run the 
+
+
+
+
+
+
 Future Implementation
 ---------------------
 * Citation Scraping
