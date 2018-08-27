@@ -14,3 +14,9 @@ Future Implementation
 * Citation Scraping
 * Data Parsing
 * Feedback/progress Bar
+* Pull "all" entries option
+* Automatic Directory Creation
+* Ability to run script in GUI mode vs CLI mode
+* Separate script and scraping
+  * Script will have input definitions, function will actually pull the files
+
